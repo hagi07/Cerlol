@@ -2,7 +2,18 @@ fileFormatVersion: 2
 guid: b4fcc5e4a5c711b4696520edcc89dcac
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - roca: {fileID: 100018, guid: f765f664b671f514e8f37ff2b49a61d9, type: 2}
+  - secuencia_1_01: {fileID: 100018, guid: f765f664b671f514e8f37ff2b49a61d9, type: 2}
+  - secuencia_1_02: {fileID: 100002, guid: a4fc806dcef92534f83f7cec5e80d2dc, type: 2}
+  - secuencia_1_03: {fileID: 100008, guid: 7f54868eece4cb447be1554136ca5338, type: 2}
+  - secuencia_1_04: {fileID: 100014, guid: c731fb6439aa15242a18554b68f25774, type: 2}
+  - secuencia_1_05: {fileID: 100004, guid: 8966de6ec974c9e4ea5128d193369526, type: 2}
+  - secuencia_1_06: {fileID: 100022, guid: 704a13a8ea65e574b92c68b9a1ab87e4, type: 2}
+  - secuencia_1_07: {fileID: 100008, guid: 847f40ca41eda5840a0690ecc9dc65b9, type: 2}
+  - secuencia_1_08: {fileID: 100034, guid: 785d8616d4f62904abf23660107f6caf, type: 2}
+  - secuencia_1_09: {fileID: 100032, guid: 80704c0d078b156428e482ea3d9d2b17, type: 2}
+  - powerUp: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

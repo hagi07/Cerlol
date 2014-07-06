@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 38cbd574dbf7dbf4d8cbcd4f4a00519d
+guid: 001ada018ecc537468b760065028dfd1
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -44,10 +44,10 @@ TextureImporter:
     - name: PowerUpsSuperCerda_0
       rect:
         serializedVersion: 2
-        x: 701
-        y: 65
-        width: 731
-        height: 884
+        x: 699
+        y: 70
+        width: 737
+        height: 880
       alignment: 0
       pivot: {x: .5, y: .5}
   spritePackingTag: 

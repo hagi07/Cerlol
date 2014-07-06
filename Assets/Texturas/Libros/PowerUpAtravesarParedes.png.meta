@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 187c67bb4c538ec4cb0aa276a499f34e
+guid: efc5bee3ab5c4ae42bb8b9df74c1c50c
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -44,10 +44,10 @@ TextureImporter:
     - name: PowerUpAtravesarParedes_0
       rect:
         serializedVersion: 2
-        x: 689
-        y: 72
-        width: 743
-        height: 879
+        x: 686
+        y: 51
+        width: 757
+        height: 937
       alignment: 0
       pivot: {x: .5, y: .5}
   spritePackingTag: 

@@ -4,11 +4,15 @@ using System.Collections;
 public class Cerebro : MonoBehaviour {
     public static string ESTADO;
     public static int VIDA;
+    public static int TURBO;
 
+
+    
     void Awake() 
     {
         ESTADO = "Jugando";
         VIDA = 3;
+        TURBO = 2;
     }
 
 	void Start () {
@@ -18,12 +22,11 @@ public class Cerebro : MonoBehaviour {
 
 	void Update () {
         if (Input.GetKeyDown(KeyCode.P)) 
-        {
             if (Time.timeScale == 1)
                 Time.timeScale = 0;
             else
                 Time.timeScale = 1;
-        }
+        
 
         if (VIDA == 0)
             StartCoroutine(Wait());

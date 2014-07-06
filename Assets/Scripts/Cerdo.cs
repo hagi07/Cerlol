@@ -8,6 +8,7 @@ public class Cerdo : MonoBehaviour {
     public float abajo;
     public float izquierda;
     public float derecha;
+
     
     private bool saltoOK;
 
@@ -23,8 +24,8 @@ public class Cerdo : MonoBehaviour {
     void Update()
     {
         //Establecen el movimiento del personaje.
-        float x = Input.GetAxis("Horizontal") * Time.deltaTime * velocidad;
-        float y = Input.GetAxis("Vertical") * Time.deltaTime * velocidad;
+        float x = Input.GetAxis("Horizontal") * Time.deltaTime * velocidad * Cerebro.TURBO;
+        float y = Input.GetAxis("Vertical") * Time.deltaTime * velocidad * Cerebro.TURBO;
         transform.Translate(x, 0, y);
 
         //Establece los límites del juego.
@@ -58,26 +59,26 @@ public class Cerdo : MonoBehaviour {
     {
         if (Input.GetKeyDown(KeyCode.LeftControl))
         {
-            if (Time.timeScale == 4)
-                Time.timeScale = 5;
+            if (Cerebro.TURBO == 4)
+                Cerebro.TURBO = 5;
 
-            if (Time.timeScale == 2)
-                Time.timeScale = 4;
+            if (Cerebro.TURBO == 3)
+                Cerebro.TURBO = 4;
 
-            if (Time.timeScale == 1)
-                Time.timeScale = 2;
+            if (Cerebro.TURBO == 2)
+                Cerebro.TURBO = 3;
         }
 
         if (Input.GetKeyDown(KeyCode.Z))
         {
-            if (Time.timeScale == 2)
-                Time.timeScale = 1;
+            if (Cerebro.TURBO == 3)
+                Cerebro.TURBO = 2;
 
-            if (Time.timeScale == 4)
-                Time.timeScale = 2;
+            if (Cerebro.TURBO == 4)
+                Cerebro.TURBO = 3;
 
-            if (Time.timeScale == 5)
-                Time.timeScale = 4;
+            if (Cerebro.TURBO == 5)
+                Cerebro.TURBO = 4;
         }
     }
 
@@ -85,6 +86,10 @@ public class Cerdo : MonoBehaviour {
     {
         if (other.gameObject.tag == "Enemigo")
             Cerebro.VIDA--;
+
+        if (other.gameObject.tag == "PowerUp")
+            PowerUps.eleccion = Random.RandomRange(1, 7); 
+        
     }
 
     void OnCollisionStay(Collision other) 

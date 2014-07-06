@@ -6,13 +6,13 @@ public class Enemigo : MonoBehaviour {
     public GameObject hijo;
 
 	void Start () {
-        this.gameObject.rigidbody.velocity = new Vector3(0, 0, velocidad);
-	}
-	
-
-	void Update () {
         
 	}
+
+	void Update () {
+        if(Time.timeScale >= 1)
+            transform.Translate(0, 0, velocidad * Cerebro.TURBO);
+    }
 
     void OnCollisionEnter(Collision other) 
     {
@@ -24,5 +24,11 @@ public class Enemigo : MonoBehaviour {
             this.gameObject.collider.enabled = false;
             hijo.gameObject.renderer.enabled = false;
         }
+    }
+
+    void OnTriggerEnter(Collider other) 
+    {
+        if (other.gameObject.tag == "Killer" ) 
+            Generador.OK = true;
     }
 }

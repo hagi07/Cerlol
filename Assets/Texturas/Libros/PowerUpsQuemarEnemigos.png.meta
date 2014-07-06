@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2fc03997eaaaffa48b3312b24133cb6c
+guid: ddf5b6336d87a364bb5957e5d1a57fab
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -44,11 +44,11 @@ TextureImporter:
     - name: PowerUpsQuemarEnemigos_0
       rect:
         serializedVersion: 2
-        x: 700
-        y: 70
-        width: 731
-        height: 879
+        x: 681
+        y: 67
+        width: 752
+        height: 881
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
   spritePackingTag: 
   userData: 

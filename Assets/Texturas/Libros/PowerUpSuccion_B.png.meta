@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 73cd855e479ccc0479d23c320f83d12a
+guid: f9e62646e85c26642a2b5c97eab39cb7
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -44,10 +44,10 @@ TextureImporter:
     - name: PowerUpSuccion_B_0
       rect:
         serializedVersion: 2
-        x: 702
-        y: 67
-        width: 727
-        height: 879
+        x: 696
+        y: 64
+        width: 735
+        height: 883
       alignment: 0
       pivot: {x: .5, y: .5}
   spritePackingTag: 

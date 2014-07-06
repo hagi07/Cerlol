@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f638c665b774359459f226f977792755
+guid: a5478ad53020259459b53001abdb3f09
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -44,11 +44,11 @@ TextureImporter:
     - name: PowerUpsEscudo_0
       rect:
         serializedVersion: 2
-        x: 699
-        y: 72
-        width: 730
-        height: 876
+        x: 694
+        y: 67
+        width: 739
+        height: 881
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
   spritePackingTag: 
   userData: 

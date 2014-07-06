@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 609b7b09f8aed0d41a87a892acd98993
+guid: 05fb7486722e2c24a8ebd6851be0f1f3
 TextureImporter:
   serializedVersion: 2
   mipmaps:
@@ -44,10 +44,10 @@ TextureImporter:
     - name: PowerUpCongelar_0
       rect:
         serializedVersion: 2
-        x: 702
-        y: 75
-        width: 736
-        height: 871
+        x: 694
+        y: 61
+        width: 744
+        height: 889
       alignment: 0
       pivot: {x: .5, y: .5}
   spritePackingTag: 
