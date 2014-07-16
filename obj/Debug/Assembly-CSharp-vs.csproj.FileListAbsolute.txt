@@ -20,3 +20,14 @@ C:\Users\Hagi\Google Drive\Elyon\Piggy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
 C:\Users\Hagi\Google Drive\Elyon\Piggy\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
 C:\Users\Hagi\Google Drive\Elyon\Piggy\obj\Debug\Assembly-CSharp.dll
 C:\Users\Hagi\Google Drive\Elyon\Piggy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\obj\Debug\Assembly-CSharp.dll
+C:\Users\Hagi\Google Drive\Elyon\Cerlol\obj\Debug\Assembly-CSharp.pdb

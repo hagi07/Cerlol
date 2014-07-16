@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Cerdo.cs" />
      <Compile Include="Assets\Scripts\Cerebro.cs" />
+     <Compile Include="Assets\Scripts\Contadores.cs" />
      <Compile Include="Assets\Scripts\Enemigo.cs" />
      <Compile Include="Assets\Scripts\Fondo.cs" />
      <Compile Include="Assets\Scripts\Generador.cs" />
