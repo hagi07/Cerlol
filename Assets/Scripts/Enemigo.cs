@@ -39,6 +39,7 @@ public class Enemigo : MonoBehaviour {
 
     void OnCollisionEnter(Collision other) 
     {
+        /*
         //DESTRUYE EL OBJETO A SALIR DE LA ZONA VISIBLE.
         if (other.gameObject.tag == "Killer")
             Destroy(this.gameObject);
@@ -55,7 +56,7 @@ public class Enemigo : MonoBehaviour {
         {
             atrayendo = true;
             rigidbody.velocity = new Vector3(0,25,0);
-        }
+        }*/
     }
 
     
@@ -63,7 +64,7 @@ public class Enemigo : MonoBehaviour {
     *********************************************/
     void OnTriggerEnter(Collider other) 
     {
-        if (other.gameObject.tag == "Killer" && this.gameObject.tag == "Next") 
-            Generador.OK = true;
+        /*if (other.gameObject.tag == "Killer" && this.gameObject.tag == "Next") 
+            Generador.OK = true;*/
     }
 }

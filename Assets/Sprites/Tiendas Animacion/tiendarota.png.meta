@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 7cc3e7dc22e289849b40eee5d859824a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: tiendarota_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 656
+        width: 299
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiendarota_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 650
+        width: 324
+        height: 370
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiendarota_2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 651
+        width: 388
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiendarota_3
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 648
+        width: 392
+        height: 369
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiendarota_4
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 618
+        width: 417
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiendarota_5
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 616
+        width: 382
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiendarota_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 197
+        width: 299
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiendarota_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 195
+        width: 300
+        height: 364
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiendarota_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 197
+        width: 358
+        height: 385
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiendarota_9
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 188
+        width: 504
+        height: 365
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiendarota_10
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 165
+        width: 353
+        height: 371
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiendarota_11
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 186
+        width: 476
+        height: 298
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

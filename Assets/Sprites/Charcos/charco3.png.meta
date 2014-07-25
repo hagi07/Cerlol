@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 904cb88e94ed31644aa28531b2a8c916
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: charco3_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 604
+        width: 524
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: charco3_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 604
+        width: 686
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: charco3_2
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 600
+        width: 735
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: charco3_3
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 600
+        width: 803
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: charco3_4
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 563
+        width: 869
+        height: 404
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: charco3_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2
+        width: 901
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: charco3_6
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 417
+        width: 146
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: charco3_7
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 14
+        width: 1006
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: charco3_8
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 26
+        width: 1028
+        height: 465
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
